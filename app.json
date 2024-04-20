@@ -1,6 +1,6 @@
 {
-  "name":"Jin-Runcandel-M",
-  "description":"An easy and simple WhatsApp bot developed by Jin Runcandel",
+  "name":"𝙎𝞖𝞓𝘿𝞗𝙒",
+  "description":"An easy and simple WhatsApp bot developed by 𝙎𝞖𝞓𝘿𝞗𝙒",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
   "repository":"https://github.com/franceking1/Flash-Md",
@@ -81,7 +81,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254757835036"
+    "value": "2347046284827"
   },
     "WARN_COUNT":
   {
